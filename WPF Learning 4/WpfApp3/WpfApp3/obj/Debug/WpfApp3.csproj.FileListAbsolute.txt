@@ -1,0 +1,16 @@
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.SuggestedBindingRedirects.cache
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\App.g.cs
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\MainWindow.baml
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Proiecte\WPF\WPF Learning 4\WpfApp3\WpfApp3\obj\Debug\WpfApp3.pdb
